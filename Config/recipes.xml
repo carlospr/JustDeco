@@ -214,5 +214,14 @@
                         <ingredient count="20" name="resourceCloth"/>
                         <ingredient count="5" name="resourcePaint"/>
                 </recipe>
+                <!-- Park benches -->
+                <recipe count="1" craft_time="3" name="parkBenchA">
+                        <ingredient count="60" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="parkBenchB">
+                        <ingredient count="60" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>                
         </append>
 </configs>

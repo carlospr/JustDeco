@@ -4,12 +4,15 @@
 	<append xpath="/blocks/block[@name='emberPileDeco1']">
 		<property name="EconomicValue" value="20"/>
 	</append>
-
 	<!-- Camping chairs -->
 	<!-- All the camping chairs extends from chairCampingWhite -->
 	<append xpath="/blocks/block[@name='chairCampingWhite']">
 		<property name="EconomicValue" value="80"/>
 	</append>
+	<!-- Park benches-->
+	<!-- All the park benches extends from parkBenchA. By default are bundled in 20 units -->
+	<append xpath="/blocks/block[@name='parkBenchA']">
+		<property name="EconomicValue" value="80"/>
+		<property name="EconomicBundleSize" value="1"/>
+	</append>
 </configs>
-
-
