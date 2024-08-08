@@ -4,4 +4,12 @@
 	<append xpath="/blocks/block[@name='emberPileDeco1']">
 		<property name="EconomicValue" value="20"/>
 	</append>
+
+	<!-- Camping chairs -->
+	<!-- All the camping chairs extends from chairCampingWhite -->
+	<append xpath="/blocks/block[@name='chairCampingWhite']">
+		<property name="EconomicValue" value="80"/>
+	</append>
 </configs>
+
+

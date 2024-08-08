@@ -164,5 +164,55 @@
                         <ingredient count="10" name="resourceWood"/>
                         <ingredient count="5" name="resourcePaint"/>
                 </recipe>
+                <!-- Camping chairs -->
+                <recipe count="1" craft_time="3" name="chairCampingWhite">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingBrown">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingRed">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingOrange">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingYellow">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingGreen">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingBlue">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingPurple">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingGrey">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="chairCampingPink">
+                        <ingredient count="60" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
         </append>
 </configs>
