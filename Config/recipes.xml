@@ -33,5 +33,136 @@
                         <ingredient count="10" name="resourceWood"/>
                         <ingredient count="20" name="resourceCoal"/>
                 </recipe>
+                <!-- Table umbrellas -->
+                <recipe count="1" craft_time="3" name="umbrellaTableDownWhite">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownBrown">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownRed">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownOrange">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownYellow">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownGreen">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownBlue">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownPurple">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownGrey">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownBlack">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableDownPink">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpWhite">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpBrown">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpRed">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpOrange">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpYellow">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpGreen">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpBlue">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpPurple">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpGrey">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpBlack">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="umbrellaTableUpPink">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="5" name="resourcePaint"/>
+                </recipe>
         </append>
 </configs>
