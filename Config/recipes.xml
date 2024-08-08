@@ -1,0 +1,37 @@
+<configs>
+        <append xpath="/recipes">
+                <!-- Ember piles -->
+                <recipe count="1" craft_time="3" name="emberPileDeco1">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco2">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco3">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco4">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco5">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco6">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco7">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="emberPileDeco8">
+                        <ingredient count="10" name="resourceWood"/>
+                        <ingredient count="20" name="resourceCoal"/>
+                </recipe>
+        </append>
+</configs>
