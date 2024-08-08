@@ -15,5 +15,7 @@
 
 ![image](https://github.com/user-attachments/assets/1a4f06f5-adff-4ce1-b140-b59904b3e95d)
 
+- 2 park benches. They are from vanilla game, fixed the economic value to something useful.
 
-# Next recipes in progress
+![ApplicationFrameHost_mCEHzJq5dL](https://github.com/user-attachments/assets/91f14060-aa11-4694-8709-c1a576efd1e5)
+
