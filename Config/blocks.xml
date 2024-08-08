@@ -1,0 +1,7 @@
+<configs>
+	<!-- Ember piles -->
+	<!-- All the ember piles extends from emberPileDeco1 -->
+	<append xpath="/blocks/block[@name='emberPileDeco1']">
+		<property name="EconomicValue" value="20"/>
+	</append>
+</configs>
