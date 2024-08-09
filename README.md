@@ -29,6 +29,11 @@
 
 ![image](https://github.com/user-attachments/assets/5086c8c0-f6ff-47fa-9ab8-f8b580ca6d49)
 
+- 3 Satellite dishes. They are from vanilla game.
+
+![ApplicationFrameHost_3H3MIx79Zt](https://github.com/user-attachments/assets/f6045acf-2764-4fac-971e-b690ad97e31a)
+  
+
   
 # Disclaimer
 
