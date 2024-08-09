@@ -222,6 +222,20 @@
                 <recipe count="1" craft_time="3" name="parkBenchB">
                         <ingredient count="60" name="resourceWood"/>
                         <ingredient count="10" name="resourceNail"/>
-                </recipe>                
+                </recipe>
+                <!-- Playground Equipment -->
+                <recipe count="1" craft_time="20" name="decoMetalSlide">
+                        <ingredient count="150" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>  
+                <recipe count="1" craft_time="20" name="decoSwingSet">
+                        <ingredient count="150" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>   
+                <recipe count="1" craft_time="20" name="decoBasketBallHoop">
+                        <ingredient count="30" name="resourceScrapIron"/>
+                        <ingredient count="40" name="resourceWood"/>
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>                  
         </append>
 </configs>

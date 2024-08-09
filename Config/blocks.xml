@@ -15,4 +15,14 @@
 		<property name="EconomicValue" value="80"/>
 		<property name="EconomicBundleSize" value="1"/>
 	</append>
+	<!-- Playground equipment -->
+	<append xpath="/blocks/block[@name='decoMetalSlide']">
+		<property name="EconomicValue" value="120"/>
+	</append>
+	<append xpath="/blocks/block[@name='decoSwingSet']">
+		<property name="EconomicValue" value="120"/>
+	</append>
+	<append xpath="/blocks/block[@name='decoBasketBallHoop']">
+		<property name="EconomicValue" value="100"/>
+	</append>
 </configs>
