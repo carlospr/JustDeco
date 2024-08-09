@@ -250,5 +250,21 @@
                 <recipe count="1" craft_time="3" name="plantHangingIvy02">
                         <ingredient count="30" name="resourceYuccaFibers"/>
                 </recipe>
+                <!-- Satellite dishes -->
+                <recipe count="1" craft_time="20" name="satelliteUnitLarge">
+                        <ingredient count="30" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceElectricParts"/>
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="satelliteUnitSmallWall">
+                        <ingredient count="30" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceElectricParts"/>
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="satelliteUnitSmallFloor">
+                        <ingredient count="30" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceElectricParts"/>
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>
         </append>
 </configs>
