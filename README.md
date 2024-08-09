@@ -21,6 +21,11 @@
 
 ![ApplicationFrameHost_mCEHzJq5dL](https://github.com/user-attachments/assets/91f14060-aa11-4694-8709-c1a576efd1e5)
 
+- 3 Playground equipment. They are from vanilla game, fixed the economic value to something useful.
+
+![ApplicationFrameHost_1UMGKYwlqg](https://github.com/user-attachments/assets/a0117975-3822-4b29-b574-7db46ef2c131)
+
+
 # Disclaimer
 
 This mod has been created specifically for "Mundo Muerto" server. So their content could be biased by their community. Feel free to suggest new ideas and content but be understanding with it! [Join the server's discord](https://discord.com/invite/brMATqS2sK) and enjoy this and other mods!
