@@ -25,4 +25,21 @@
 	<append xpath="/blocks/block[@name='decoBasketBallHoop']">
 		<property name="EconomicValue" value="100"/>
 	</append>
+	<!-- Hanging plants -->
+	<append xpath="/blocks/block[@name='hangingMoss']">
+		<property name="EconomicValue" value="1"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='cobweb']">
+		<property name="EconomicValue" value="1"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='plantHangingIvy01']">
+		<property name="EconomicValue" value="1"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='plantHangingIvy02']">
+		<property name="EconomicValue" value="1"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
 </configs>

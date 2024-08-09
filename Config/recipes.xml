@@ -227,15 +227,28 @@
                 <recipe count="1" craft_time="20" name="decoMetalSlide">
                         <ingredient count="150" name="resourceScrapIron"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
-                </recipe>  
+                </recipe>
                 <recipe count="1" craft_time="20" name="decoSwingSet">
                         <ingredient count="150" name="resourceScrapIron"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
-                </recipe>   
+                </recipe>
                 <recipe count="1" craft_time="20" name="decoBasketBallHoop">
                         <ingredient count="30" name="resourceScrapIron"/>
                         <ingredient count="40" name="resourceWood"/>
                         <ingredient count="5" name="resourceScrapPolymers"/>
-                </recipe>                  
+                </recipe>
+                <!-- Hanging plants -->
+                <recipe count="1" craft_time="3" name="hangingMoss">
+                        <ingredient count="30" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="cobweb">
+                        <ingredient count="30" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="plantHangingIvy01">
+                        <ingredient count="30" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" craft_time="3" name="plantHangingIvy02">
+                        <ingredient count="30" name="resourceYuccaFibers"/>
+                </recipe>
         </append>
 </configs>
