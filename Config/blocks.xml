@@ -42,4 +42,10 @@
 		<property name="EconomicValue" value="1"/>
 		<property name="SellableToTrader" value="false"/>
 	</append>
+	<!-- Gravestones -->
+	<!-- All the gravestones extends from graveStone01 -->
+	<append xpath="/blocks/block[@name='graveStone01']">
+		<property name="EconomicValue" value="1"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>		
 </configs>

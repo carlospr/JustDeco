@@ -266,5 +266,30 @@
                         <ingredient count="20" name="resourceElectricParts"/>
                         <ingredient count="5" name="resourceScrapPolymers"/>
                 </recipe>
+                <!-- Gravestones -->
+                <recipe count="1" craft_time="20" name="graveStone01">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone02">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone03">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone04">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone05">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone06">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone07">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" craft_time="20" name="graveStone08">
+                        <ingredient count="100" name="resourceRockSmall"/>
+                </recipe>
         </append>
 </configs>
