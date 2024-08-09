@@ -32,7 +32,11 @@
 - 3 Satellite dishes. They are from vanilla game.
 
 ![ApplicationFrameHost_3H3MIx79Zt](https://github.com/user-attachments/assets/f6045acf-2764-4fac-971e-b690ad97e31a)
-  
+
+- 8 gravestones. They are from vanilla game, removed the economic value and now they are not sellable to trader.
+
+![ApplicationFrameHost_n5IwO3eef5](https://github.com/user-attachments/assets/ab99ecf7-c427-418d-87cb-251c4ecbe786)
+
 
   
 # Disclaimer
