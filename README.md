@@ -25,7 +25,11 @@
 
 ![ApplicationFrameHost_1UMGKYwlqg](https://github.com/user-attachments/assets/a0117975-3822-4b29-b574-7db46ef2c131)
 
+- 4 Hanging plants (2 ivys, 1 moss and 1 cobweb). They are from vanilla game, removed the economic value and now they are not sellable to trader.
 
+![image](https://github.com/user-attachments/assets/5086c8c0-f6ff-47fa-9ab8-f8b580ca6d49)
+
+  
 # Disclaimer
 
 This mod has been created specifically for "Mundo Muerto" server. So their content could be biased by their community. Feel free to suggest new ideas and content but be understanding with it! [Join the server's discord](https://discord.com/invite/brMATqS2sK) and enjoy this and other mods!
