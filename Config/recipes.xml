@@ -342,6 +342,11 @@
                 </recipe>
                 <recipe count="1" name="newspaperDecor04">
                         <ingredient count="2" name="resourcePaper"/>
-                </recipe>                                                
+                </recipe>     
+                <!-- Misc -->
+                <recipe count="1" name="coneConstruction">
+                        <ingredient count="25" name="resourceScrapPolymers"/>
+                </recipe>     
+
         </append>
 </configs>
