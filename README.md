@@ -39,9 +39,13 @@
 
 **Indoor furniture**
 
-- 6 Beds. They are from vanilla game, decreased the economic value to something realistic and now they are not sellable to trader.
+- 6 Beds. They are from vanilla game, decreased the economic value to something useful and now they are not sellable to trader.
 
 ![image](https://github.com/user-attachments/assets/93566bfe-1905-4340-a474-a1acd34f4035)
+
+- 4 Newspapers deco. They are from vanilla game.
+
+![image](https://github.com/user-attachments/assets/064ecf46-8295-474e-9e33-d6c96c77ff4a)
 
   
 # Disclaimer
