@@ -291,5 +291,44 @@
                 <recipe count="1" craft_time="20" name="graveStone08">
                         <ingredient count="100" name="resourceRockSmall"/>
                 </recipe>
+                <!-- Beds -->
+                <recipe count="1" name="bunkBedMade">
+                        <ingredient count="100" name="resourceCloth"/>
+                        <ingredient count="40" name="resourceCropCottonPlant"/>
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="bunkBedMessy">
+                        <ingredient count="100" name="resourceCloth"/>
+                        <ingredient count="40" name="resourceCropCottonPlant"/>
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="bunkBedMattress">
+                        <ingredient count="40" name="resourceCropCottonPlant"/>
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="bunkBedFrame">
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="gurneyBed">
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="hospitalBed">
+                        <ingredient count="50" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceCropCottonPlant"/>
+                        <ingredient count="20" name="resourceSpring"/>
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceMetalPipe"/>
+                </recipe>
         </append>
 </configs>

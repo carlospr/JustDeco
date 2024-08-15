@@ -48,4 +48,23 @@
 		<property name="EconomicValue" value="1"/>
 		<property name="SellableToTrader" value="false"/>
 	</append>		
+	<!-- Beds -->
+	<append xpath="/blocks/block[@name='bed02']">
+		<property name="EconomicValue" value="120"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>		
+	<!-- bunkBedMessy and bunkBedMattress extends from bunkBedMade -->
+	<append xpath="/blocks/block[@name='bunkBedMade']">
+		<property name="EconomicValue" value="100"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>	
+	<append xpath="/blocks/block[@name='bunkBedFrame']">
+		<property name="EconomicValue" value="80"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>			
+	<!-- hospitalBed extends from gurneyBed -->
+	<append xpath="/blocks/block[@name='gurneyBed']">
+		<property name="EconomicValue" value="100"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>		
 </configs>
