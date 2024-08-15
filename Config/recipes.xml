@@ -330,5 +330,18 @@
                         <ingredient count="20" name="resourceWood"/>
                         <ingredient count="10" name="resourceMetalPipe"/>
                 </recipe>
+                <!-- Newspapers decor -->
+                <recipe count="1" name="newspaperDecor01">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="newspaperDecor02">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="newspaperDecor03">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="newspaperDecor04">
+                        <ingredient count="2" name="resourcePaper"/>
+                </recipe>                                                
         </append>
 </configs>
