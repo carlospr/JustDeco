@@ -37,6 +37,11 @@
 
 ![ApplicationFrameHost_n5IwO3eef5](https://github.com/user-attachments/assets/ab99ecf7-c427-418d-87cb-251c4ecbe786)
 
+**Indoor furniture**
+
+- 6 Beds. They are from vanilla game, decreased the economic value to something realistic and now they are not sellable to trader.
+
+![image](https://github.com/user-attachments/assets/93566bfe-1905-4340-a474-a1acd34f4035)
 
   
 # Disclaimer
