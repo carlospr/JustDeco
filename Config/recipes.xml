@@ -442,7 +442,7 @@
                 <recipe count="1" name="banditRampSheet2x2A">
                         <ingredient count="100" name="resourceWood"/>
                         <ingredient count="20" name="resourceNail"/>
-                        <ingredient count="20" name="resourceScrapIron"/>                        
+                        <ingredient count="20" name="resourceScrapIron"/>
                 </recipe>
                 <recipe count="1" name="banditRampSheet3x2A">
                         <ingredient count="120" name="resourceWood"/>
@@ -463,6 +463,21 @@
                         <ingredient count="40" name="resourceScrapIron"/>
                         <ingredient count="200" name="resourceWood"/>
                 </recipe>
-
+                <!-- Wine bottles -->
+                <recipe count="1" name="decoWineBottle">
+                        <ingredient count="5" name="glassBlockVariantHelper"/>
+                </recipe>
+                <recipe count="1" name="decoWineBottleCorner">
+                        <ingredient count="5" name="glassBlockVariantHelper"/>
+                </recipe>
+                <recipe count="1" name="decoWineBottleShelfRow">
+                        <ingredient count="5" name="glassBlockVariantHelper"/>
+                </recipe>
+                <recipe count="1" name="decoWineBottlePile01">
+                        <ingredient count="5" name="glassBlockVariantHelper"/>
+                </recipe>
+                <recipe count="1" name="decoWineBottlePile02">
+                        <ingredient count="5" name="glassBlockVariantHelper"/>
+                </recipe>
         </append>
 </configs>
