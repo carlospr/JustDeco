@@ -41,6 +41,21 @@
 
 ![ApplicationFrameHost_30yNPFKMLv](https://github.com/user-attachments/assets/5bf008df-a526-401e-a904-f44bbf36356b)
 
+- 10 Bandit platforms. They are from vanilla game
+
+![ShareX_1jqZMKkVJq](https://github.com/user-attachments/assets/c207ea78-5488-4d0a-b931-dd70ae8be39d)
+
+- 11 Bandit supports. They are from vanilla game
+
+![ApplicationFrameHost_stm0ZGmlpG](https://github.com/user-attachments/assets/1f28c7a1-2803-4041-847b-e6396b0f18d9)
+
+- 6 Bandit ramps. They are from vanilla game.
+
+![ApplicationFrameHost_JEVSnVlBHX](https://github.com/user-attachments/assets/4bdc1a5a-9231-47ce-bc7f-f09d15bc9ed1)
+
+
+
+
 
 **Indoor furniture**
 
