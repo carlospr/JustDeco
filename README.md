@@ -37,6 +37,11 @@
 
 ![ApplicationFrameHost_n5IwO3eef5](https://github.com/user-attachments/assets/ab99ecf7-c427-418d-87cb-251c4ecbe786)
 
+- 1 Construction Cone. It is from vanilla game.
+
+![ApplicationFrameHost_30yNPFKMLv](https://github.com/user-attachments/assets/5bf008df-a526-401e-a904-f44bbf36356b)
+
+
 **Indoor furniture**
 
 - 6 Beds. They are from vanilla game, decreased the economic value to something useful and now they are not sellable to trader.
