@@ -53,9 +53,9 @@
 
 ![ApplicationFrameHost_JEVSnVlBHX](https://github.com/user-attachments/assets/4bdc1a5a-9231-47ce-bc7f-f09d15bc9ed1)
 
+- Wild West Wagon. It is from vanilla game.
 
-
-
+![image](https://github.com/user-attachments/assets/17d81524-972a-4ae2-8346-1ee5dbfeb83d)
 
 **Indoor furniture**
 
