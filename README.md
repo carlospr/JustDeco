@@ -57,6 +57,11 @@
 
 ![image](https://github.com/user-attachments/assets/17d81524-972a-4ae2-8346-1ee5dbfeb83d)
 
+- 7 items related to liftment (hoist). They are from vanilla game, fixed the economic value to something useful.
+
+![7DaysToDie_3nlQXYFlYW](https://github.com/user-attachments/assets/965bc1dd-b28d-4769-8f5a-7f890fee5bd9)
+
+
 **Indoor furniture**
 
 - 6 Beds. They are from vanilla game, decreased the economic value to something useful and now they are not sellable to trader.
