@@ -342,11 +342,121 @@
                 </recipe>
                 <recipe count="1" name="newspaperDecor04">
                         <ingredient count="2" name="resourcePaper"/>
-                </recipe>     
+                </recipe>
+                <!-- Bandit Supports -->
+                <recipe count="1" name="banditSupport1m">
+                        <ingredient count="5" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupport2m">
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupport3m">
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupportBroken1m">
+                        <ingredient count="3" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupportBroken2m">
+                        <ingredient count="6" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupportBroken3m">
+                        <ingredient count="9" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="banditSupport3x1A">
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditSupport3x1B">
+                        <ingredient count="20" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditSupport2x2A">
+                        <ingredient count="40" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditSupport3x2A">
+                        <ingredient count="50" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditSupport3x3A">
+                        <ingredient count="60" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <!-- Bandit Platforms -->
+                <recipe count="1" name="banditPlatform2x2A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x2A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x3A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x3B">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x3BrokenA">
+                        <ingredient count="50" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x3BrokenB">
+                        <ingredient count="50" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatform3x3BrokenC">
+                        <ingredient count="50" name="resourceWood"/>
+                        <ingredient count="10" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditPlatformSheet3x2A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditPlatformSheet3x3A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditPlatformSheet3x3B">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <!-- Bandit Ramps -->
+                <recipe count="1" name="banditRamp2x2A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditRamp3x2A">
+                        <ingredient count="120" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditRamp3x3A">
+                        <ingredient count="140" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                </recipe>
+                <recipe count="1" name="banditRampSheet2x2A">
+                        <ingredient count="100" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>                        
+                </recipe>
+                <recipe count="1" name="banditRampSheet3x2A">
+                        <ingredient count="120" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditRampSheet3x3A">
+                        <ingredient count="140" name="resourceWood"/>
+                        <ingredient count="20" name="resourceNail"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
                 <!-- Misc -->
                 <recipe count="1" name="coneConstruction">
                         <ingredient count="25" name="resourceScrapPolymers"/>
-                </recipe>     
-
+                </recipe>
         </append>
 </configs>
