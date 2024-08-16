@@ -479,5 +479,30 @@
                 <recipe count="1" name="decoWineBottlePile02">
                         <ingredient count="5" name="glassBlockVariantHelper"/>
                 </recipe>
+                <!-- "Hoist" equipment -->
+                <recipe count="1" name="decoHoistChain">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="decoHoistChainSingleCenter">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="decoHoistChainSingleCorner">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="decoHoistSpreader">
+                        <ingredient count="100" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="decoHoistHook">
+                        <ingredient count="75" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
+                <recipe count="1" name="decoHoistMagnet">
+                        <ingredient count="75" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceElectricParts"/>
+                </recipe>
+                <recipe count="1" name="decoHoistTopMount">
+                        <ingredient count="75" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
         </append>
 </configs>

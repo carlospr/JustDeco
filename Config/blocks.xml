@@ -71,4 +71,9 @@
 	<append xpath="/blocks/block[@name='decoWildWestWagon']">
 		<property name="EconomicValue" value="100"/>
 	</append>
+	<!-- "Hoist" equipment -->
+	<!-- decoHoistChainSingleCenter, decoHoistChainSingleCorner, decoHoistSpreader,decoHoistHook, decoHoistMagnet and decoHoistTopMount extends from decoHoistChain-->
+	<append xpath="/blocks/block[@name='decoHoistChain']">
+		<property name="EconomicValue" value="100"/>
+	</append>
 </configs>
