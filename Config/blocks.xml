@@ -47,24 +47,28 @@
 	<append xpath="/blocks/block[@name='graveStone01']">
 		<property name="EconomicValue" value="1"/>
 		<property name="SellableToTrader" value="false"/>
-	</append>		
+	</append>
 	<!-- Beds -->
 	<append xpath="/blocks/block[@name='bed02']">
 		<property name="EconomicValue" value="120"/>
 		<property name="SellableToTrader" value="false"/>
-	</append>		
+	</append>
 	<!-- bunkBedMessy and bunkBedMattress extends from bunkBedMade -->
 	<append xpath="/blocks/block[@name='bunkBedMade']">
 		<property name="EconomicValue" value="100"/>
 		<property name="SellableToTrader" value="false"/>
-	</append>	
+	</append>
 	<append xpath="/blocks/block[@name='bunkBedFrame']">
 		<property name="EconomicValue" value="80"/>
 		<property name="SellableToTrader" value="false"/>
-	</append>			
+	</append>
 	<!-- hospitalBed extends from gurneyBed -->
 	<append xpath="/blocks/block[@name='gurneyBed']">
 		<property name="EconomicValue" value="100"/>
 		<property name="SellableToTrader" value="false"/>
-	</append>		
+	</append>
+	<!-- Wild West Wagon -->
+	<append xpath="/blocks/block[@name='decoWildWestWagon']">
+		<property name="EconomicValue" value="100"/>
+	</append>
 </configs>

@@ -458,5 +458,11 @@
                 <recipe count="1" name="coneConstruction">
                         <ingredient count="25" name="resourceScrapPolymers"/>
                 </recipe>
+                <recipe count="1" name="decoWildWestWagon">
+                        <ingredient count="40" name="resourceCloth"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                        <ingredient count="200" name="resourceWood"/>
+                </recipe>
+
         </append>
 </configs>
