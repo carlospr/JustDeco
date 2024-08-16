@@ -67,6 +67,9 @@
 
 ![image](https://github.com/user-attachments/assets/064ecf46-8295-474e-9e33-d6c96c77ff4a)
 
+- 5 Wine Bottles deco. They are from vanilla game.
+
+![ShareX_HlbfACHBLz](https://github.com/user-attachments/assets/6d2bc824-28ca-4d64-bffc-4f12dc7cddcb)
   
 # Disclaimer
 
