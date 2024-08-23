@@ -61,6 +61,11 @@
 
 ![7DaysToDie_3nlQXYFlYW](https://github.com/user-attachments/assets/965bc1dd-b28d-4769-8f5a-7f890fee5bd9)
 
+- Fancy Garbage can. It is from vanilla game and it is added to Metal Furniture block
+
+![ApplicationFrameHost_qfOp1A14Gx](https://github.com/user-attachments/assets/8cee2c80-4df0-422b-b9f0-a8593cede333)
+
+
 
 **Indoor furniture**
 
