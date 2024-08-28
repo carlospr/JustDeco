@@ -548,5 +548,24 @@
                         <ingredient count="100" name="resourceScrapBrass"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
                 </recipe>
+                <!-- Flag poles -->
+                <recipe count="1" name="flagPoleWhiteRiver">
+                        <ingredient count="50" name="resourceMetalPipe"/>
+                        <ingredient count="40" name="resourceCloth"/>
+                        <ingredient count="80" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" name="flagPoleTrader">
+                        <ingredient count="50" name="resourceMetalPipe"/>
+                        <ingredient count="40" name="resourceCloth"/>
+                        <ingredient count="80" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" name="flagPoleAmerican">
+                        <ingredient count="50" name="resourceMetalPipe"/>
+                        <ingredient count="40" name="resourceCloth"/>
+                        <ingredient count="80" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceRockSmall"/>
+                </recipe>
         </append>
 </configs>

@@ -87,6 +87,18 @@
 	<!-- Radio Ham -->
 	<append xpath="/blocks/block[@name='radioHam']">
 		<property name="EconomicValue" value="100"/>
-	</append>	
-
+	</append>
+	<!-- Flag Poles -->
+	<append xpath="/blocks/block[@name='flagPoleWhiteRiver']">
+		<property name="SellableToTrader" value="false"/>
+		<property name="EconomicValue" value="125"/>
+	</append>
+	<append xpath="/blocks/block[@name='flagPoleTrader']">
+		<property name="SellableToTrader" value="false"/>
+		<property name="EconomicValue" value="125"/>
+	</append>
+	<append xpath="/blocks/block[@name='flagPoleAmerican']">
+		<property name="SellableToTrader" value="false"/>
+		<property name="EconomicValue" value="125"/>
+	</append>
 </configs>
