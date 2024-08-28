@@ -84,5 +84,9 @@
 	<append xpath="/blocks/block[@name='decoClawFootBathTub']">
 		<property name="EconomicValue" value="56"/>
 	</append>
+	<!-- Radio Ham -->
+	<append xpath="/blocks/block[@name='radioHam']">
+		<property name="EconomicValue" value="100"/>
+	</append>	
 
 </configs>
