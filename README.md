@@ -97,6 +97,10 @@
 
 ![image](https://github.com/user-attachments/assets/5e9b7d8a-f724-478d-8123-1d06c0f361da)
 
+- 4 church bells. They are from vanilla game.
+
+![image](https://github.com/user-attachments/assets/88d8e462-9b6d-4931-a775-07d6b0cb95e1)
+
   
 # Disclaimer
 
