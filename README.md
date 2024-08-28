@@ -73,6 +73,11 @@
 
 ![7DaysToDie_vo2jdkpWtY](https://github.com/user-attachments/assets/7e6153e3-f97b-48fb-be0d-9b3185778278)
 
+- Pig trough (just the empty version). It is from vanilla game
+
+![7DaysToDie_bkMYSKhwuV](https://github.com/user-attachments/assets/4637ff71-165e-4b5c-8265-04f4c02665c7)
+
+
 
 **Indoor furniture**
 
