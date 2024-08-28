@@ -471,7 +471,7 @@
                         <ingredient count="40" name="resourceScrapPolymers"/>
                         <ingredient count="50" name="resourceElectricParts"/>
                         <ingredient count="20" name="resourceScrapIron"/>
-                </recipe>                
+                </recipe>
                 <!-- Wine bottles -->
                 <recipe count="1" name="decoWineBottle">
                         <ingredient count="5" name="glassBlockVariantHelper"/>
@@ -530,6 +530,23 @@
                 </recipe>
                 <recipe count="1" name="cntBruteStyleTrashCanFull">
                         <ingredient count="20" name="resourceScrapPolymers"/>
-                </recipe>                                        
+                </recipe>
+                <!-- Church Bells -->
+                <recipe count="1" name="churchBell">
+                        <ingredient count="100" name="resourceScrapBrass"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
+                <recipe count="1" name="churchBellHanging">
+                        <ingredient count="100" name="resourceScrapBrass"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
+                <recipe count="1" name="churchBell1x2x1">
+                        <ingredient count="100" name="resourceScrapBrass"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
+                <recipe count="1" name="churchBellHanging1x2x1">
+                        <ingredient count="100" name="resourceScrapBrass"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
         </append>
 </configs>
