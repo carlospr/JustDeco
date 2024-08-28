@@ -65,6 +65,10 @@
 
 ![ApplicationFrameHost_qfOp1A14Gx](https://github.com/user-attachments/assets/8cee2c80-4df0-422b-b9f0-a8593cede333)
 
+- 2 Trash cans ("Brute" Style). They are from vanilla game
+
+![7DaysToDie_r43TDplOhP](https://github.com/user-attachments/assets/6809eb49-b3d1-4186-a26b-344e61ff82d5)
+
 
 
 **Indoor furniture**
