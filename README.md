@@ -85,6 +85,10 @@
 
 ![7DaysToDie_dIvnCpduST](https://github.com/user-attachments/assets/4e44b9dd-1d5e-41e6-8c7f-f85197d09f74)
 
+- Piano. It is from vanilla game.
+
+![image](https://github.com/user-attachments/assets/36ebdb46-7012-4453-9bef-624e0d576bba)
+
 
   
 # Disclaimer
