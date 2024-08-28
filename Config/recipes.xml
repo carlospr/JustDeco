@@ -504,5 +504,16 @@
                         <ingredient count="75" name="resourceScrapIron"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
                 </recipe>
+                <!-- Tubs -->
+                <recipe count="1" name="cntBathTubEmpty">
+                        <ingredient count="75" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>
+                <recipe count="1" name="decoClawFootBathTub">
+                        <ingredient count="75" name="resourceScrapIron"/>
+                        <ingredient count="10" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceMechanicalParts"/>
+                </recipe>                                
         </append>
 </configs>

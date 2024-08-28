@@ -80,4 +80,9 @@
 	<append xpath="/blocks/block[@name='decoHoistChain']">
 		<property name="EconomicValue" value="100"/>
 	</append>
+	<!-- Tubs -->
+	<append xpath="/blocks/block[@name='decoClawFootBathTub']">
+		<property name="EconomicValue" value="56"/>
+	</append>
+
 </configs>
