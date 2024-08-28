@@ -463,6 +463,10 @@
                         <ingredient count="40" name="resourceScrapIron"/>
                         <ingredient count="200" name="resourceWood"/>
                 </recipe>
+                <recipe count="1" name="piano">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                        <ingredient count="75" name="resourceWood"/>
+                </recipe>
                 <!-- Wine bottles -->
                 <recipe count="1" name="decoWineBottle">
                         <ingredient count="5" name="glassBlockVariantHelper"/>
@@ -514,6 +518,6 @@
                         <ingredient count="75" name="resourceScrapIron"/>
                         <ingredient count="10" name="resourceRockSmall"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
-                </recipe>                                
+                </recipe>
         </append>
 </configs>
