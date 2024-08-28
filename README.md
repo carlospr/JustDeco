@@ -77,6 +77,10 @@
 
 ![7DaysToDie_bkMYSKhwuV](https://github.com/user-attachments/assets/4637ff71-165e-4b5c-8265-04f4c02665c7)
 
+- 5 modular ropes (some of them are climbable). They are from vanilla game
+
+![7DaysToDie_4HXC9qoCGk](https://github.com/user-attachments/assets/fd2515bf-3f6e-429a-b260-6e50ad9c8217)
+
 
 
 **Indoor furniture**
