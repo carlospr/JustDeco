@@ -567,5 +567,21 @@
                         <ingredient count="800" name="resourceScrapIron"/>
                         <ingredient count="20" name="resourceRockSmall"/>
                 </recipe>
+                <!-- Modular ropes -->
+                <recipe count="1" name="modularRopeTiled">
+                        <ingredient count="20" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" name="modularRopeTopTied">
+                        <ingredient count="20" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" name="modularRopeNoose">
+                        <ingredient count="20" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" name="modularRopeTiledSideCentered">
+                        <ingredient count="20" name="resourceYuccaFibers"/>
+                </recipe>
+                <recipe count="1" name="modularRopeTopTiedSideCentered">
+                        <ingredient count="20" name="resourceYuccaFibers"/>
+                </recipe>
         </append>
 </configs>
