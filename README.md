@@ -80,6 +80,12 @@
 - 5 Wine Bottles deco. They are from vanilla game.
 
 ![ShareX_HlbfACHBLz](https://github.com/user-attachments/assets/6d2bc824-28ca-4d64-bffc-4f12dc7cddcb)
+
+- 2 Tubs. They are from vanilla game. Claw foot tub economic value has been fixed to be similar to Empty Bathtub
+
+![7DaysToDie_dIvnCpduST](https://github.com/user-attachments/assets/4e44b9dd-1d5e-41e6-8c7f-f85197d09f74)
+
+
   
 # Disclaimer
 
