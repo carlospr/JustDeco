@@ -89,6 +89,9 @@
 
 ![image](https://github.com/user-attachments/assets/36ebdb46-7012-4453-9bef-624e0d576bba)
 
+- Radio station. It is from vanilla game and its economic value has been fixed.
+
+![image](https://github.com/user-attachments/assets/5e9b7d8a-f724-478d-8123-1d06c0f361da)
 
   
 # Disclaimer
