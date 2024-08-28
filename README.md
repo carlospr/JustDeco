@@ -69,6 +69,9 @@
 
 ![7DaysToDie_r43TDplOhP](https://github.com/user-attachments/assets/6809eb49-b3d1-4186-a26b-344e61ff82d5)
 
+- 3 Flag Poles. They are from vanilla game, their economic value has been fixed and they are not sellable to trader.
+
+![7DaysToDie_vo2jdkpWtY](https://github.com/user-attachments/assets/7e6153e3-f97b-48fb-be0d-9b3185778278)
 
 
 **Indoor furniture**
