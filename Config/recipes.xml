@@ -467,6 +467,11 @@
                         <ingredient count="40" name="resourceScrapIron"/>
                         <ingredient count="75" name="resourceWood"/>
                 </recipe>
+                <recipe count="1" name="radioHam">
+                        <ingredient count="40" name="resourceScrapPolymers"/>
+                        <ingredient count="50" name="resourceElectricParts"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>                
                 <!-- Wine bottles -->
                 <recipe count="1" name="decoWineBottle">
                         <ingredient count="5" name="glassBlockVariantHelper"/>
@@ -519,5 +524,12 @@
                         <ingredient count="10" name="resourceRockSmall"/>
                         <ingredient count="10" name="resourceMechanicalParts"/>
                 </recipe>
+                <!-- Trash cans (Brute Style) -->
+                <recipe count="1" name="cntBruteStyleTrashCanEmpty">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe count="1" name="cntBruteStyleTrashCanFull">
+                        <ingredient count="20" name="resourceScrapPolymers"/>
+                </recipe>                                        
         </append>
 </configs>
