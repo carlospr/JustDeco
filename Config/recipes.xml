@@ -472,6 +472,9 @@
                         <ingredient count="50" name="resourceElectricParts"/>
                         <ingredient count="20" name="resourceScrapIron"/>
                 </recipe>
+                <recipe count="1" name="cntTroughPigEmpty">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
                 <!-- Wine bottles -->
                 <recipe count="1" name="decoWineBottle">
                         <ingredient count="5" name="glassBlockVariantHelper"/>
