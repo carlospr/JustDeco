@@ -113,6 +113,11 @@
 
 ![image](https://github.com/user-attachments/assets/88d8e462-9b6d-4931-a775-07d6b0cb95e1)
 
+- 3 hedges. They are from vanilla game.
+
+![7DaysToDie_TY0wRdy9f2](https://github.com/user-attachments/assets/226c45c3-112f-43f7-9de6-b02cf5d20d4f)
+
+
   
 # Disclaimer
 
