@@ -583,5 +583,15 @@
                 <recipe count="1" name="modularRopeTopTiedSideCentered">
                         <ingredient count="20" name="resourceYuccaFibers"/>
                 </recipe>
+                <!-- Hedges -->
+                <recipe count="1" name="plantHedge">
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="plantHedgeSnow">
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="plantHedgeDead">
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
         </append>
 </configs>
