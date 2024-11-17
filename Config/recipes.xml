@@ -593,5 +593,887 @@
                 <recipe count="1" name="plantHedgeDead">
                         <ingredient count="10" name="resourceWood"/>
                 </recipe>
+                <!-- Curtains -->
+                <recipe count="1" name="curtainDrapesRod1m">
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTilePurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTilePink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTilePurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTilePink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTilePurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTilePink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTopDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullTileDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesFullBottomDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTopDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfTileDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesLeftHalfBottomDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTopDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfTileDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyPurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <recipe count="1" name="curtainDrapesRightHalfBottomDirtyPink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>
+                <!-- Curtain dividers -->
+                <recipe count="1" name="screenCurtainDividerWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="8" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="screenCurtainDividerRed">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="8" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="screenCurtainDividerGreen">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="8" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="screenCurtainDividerBlue">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="8" name="resourceMetalPipe"/>
+                </recipe>                
         </append>
 </configs>
