@@ -1651,54 +1651,353 @@
                         <ingredient count="20" name="resourceScrapIron"/>
                 </recipe>
                 <!-- Tarp fences -->
-<recipe count="1" name="tarpFenceWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingRightWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingLeftWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceSagingWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceCornerWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpHangingWhite">
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingRightRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingLeftRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceSagingRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceCornerRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpHangingRed"><ingredient count="1" name="modDyeRed"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingRightGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingLeftGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceSagingGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceCornerGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpHangingGreen"><ingredient count="1" name="modDyeGreen"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingRightBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceFallingLeftBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceSagingBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpFenceCornerBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-<recipe count="1" name="tarpHangingBlue"><ingredient count="1" name="modDyeBlue"/>
-<ingredient count="40" name="resourceScrapIron"/></recipe>
-                
+                <recipe count="1" name="tarpFenceWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingRightWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingLeftWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceSagingWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceCornerWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpHangingWhite">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingRightRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingLeftRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceSagingRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceCornerRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpHangingRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingRightGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingLeftGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceSagingGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceCornerGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpHangingGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingRightBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceFallingLeftBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceSagingBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpFenceCornerBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="tarpHangingBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <!-- *** BANDIT_WALLS -->
+                <!-- Corrugated_Metal_Sheets-->
+                <recipe count="1" name="banditWallCorrugated1x2.5">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugated1x3">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugated1x4">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugated2x3">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugatedDiagonal2x3">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugatedDiagonal1x3">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugatedDiagonal3x1">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugatedDiagonal1x2">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallCorrugatedDiagonal1x1">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <!-- Color_Tinted_Ribbed_Metal_Sheets -->
+                <recipe count="1" name="banditWallRibbed2x1White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed2x1Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbed3x2Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallRibbedDiagonal2x1Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <!-- Color_Tinted_Metal_Siding_Sheets -->
+                <recipe count="1" name="banditWallSiding1x4White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding1x4Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding2x2Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSiding3x3Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2White">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Yellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Green">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Blue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallSidingDiagonal2x2Grey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="banditWallStreetsign3x2">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
         </append>
 </configs>
