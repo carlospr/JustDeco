@@ -1650,5 +1650,55 @@
                         <ingredient count="20" name="resourceCloth"/>
                         <ingredient count="20" name="resourceScrapIron"/>
                 </recipe>
+                <!-- Tarp fences -->
+<recipe count="1" name="tarpFenceWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingRightWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingLeftWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceSagingWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceCornerWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpHangingWhite">
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingRightRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingLeftRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceSagingRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceCornerRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpHangingRed"><ingredient count="1" name="modDyeRed"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingRightGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingLeftGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceSagingGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceCornerGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpHangingGreen"><ingredient count="1" name="modDyeGreen"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingRightBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceFallingLeftBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceSagingBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpFenceCornerBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+<recipe count="1" name="tarpHangingBlue"><ingredient count="1" name="modDyeBlue"/>
+<ingredient count="40" name="resourceScrapIron"/></recipe>
+                
         </append>
 </configs>
