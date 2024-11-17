@@ -87,6 +87,9 @@
 
 ![Tents](https://github.com/user-attachments/assets/1edf04cc-b090-4acb-84d5-f61c5d30cab3)
 
+- 24 tarp fences. They are from vanilla game. They are 6 different types with 4 colours each one (White, Red, Green and Blue)
+
+![TarpFences](https://github.com/user-attachments/assets/c0e54fca-61dd-4518-9140-1c6657180069)
 
 
 
