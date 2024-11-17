@@ -91,6 +91,13 @@
 
 ![TarpFences](https://github.com/user-attachments/assets/c0e54fca-61dd-4518-9140-1c6657180069)
 
+- 9 Corrugated Bandit Walls. They are from vanilla game.
+
+![BanditWallsCorrugated](https://github.com/user-attachments/assets/8117806d-dbe1-48f4-8a00-198edb439994)
+
+- 56 Bandit Walls. They are from vanilla game. Available colours: White (in the following screenshot), Brown, Red, Orange, Yellow, Green, Blue and Grey.
+
+![BanditWallsWhite](https://github.com/user-attachments/assets/6c7f99f2-9df4-4cb2-920c-d596f39c1409)
 
 
 **Indoor furniture**
