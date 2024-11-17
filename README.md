@@ -81,6 +81,13 @@
 
 ![7DaysToDie_4HXC9qoCGk](https://github.com/user-attachments/assets/fd2515bf-3f6e-429a-b260-6e50ad9c8217)
 
+- 36 camping tents. They are from vanilla game. They are 6 different types with 6 colours each one (White, Red, Orange, Green, Blue and Black)
+
+![WhiteTents](https://github.com/user-attachments/assets/3d7b1108-1890-46b7-9fc2-91fe22f06b1f)
+
+![Tents](https://github.com/user-attachments/assets/1edf04cc-b090-4acb-84d5-f61c5d30cab3)
+
+
 
 
 **Indoor furniture**
