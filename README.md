@@ -117,6 +117,20 @@
 
 ![7DaysToDie_TY0wRdy9f2](https://github.com/user-attachments/assets/226c45c3-112f-43f7-9de6-b02cf5d20d4f)
 
+- Curtain rod. It is from vanilla game.
+  
+ ![CurtainRod](https://github.com/user-attachments/assets/9420de50-8b5f-44bf-8db6-959f486111cf)
+
+
+- 4 Curtain Dividers. They are from vanilla game.
+
+ ![Divider](https://github.com/user-attachments/assets/9f10e685-4309-4dc8-bf39-7bdbe4b5910e)
+
+
+- 18 Curtains per colour. They are from vanilla game. Available colours: White (in the following screenshot), Brown, Red, Orange, Yellow, Blue, Pink, Purple, Grey and Black.
+
+![Curtains](https://github.com/user-attachments/assets/8fcb4b0e-9d2d-44c2-9f6b-a58ef124fe2a)
+
 
   
 # Disclaimer
