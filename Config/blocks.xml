@@ -101,4 +101,9 @@
 		<property name="SellableToTrader" value="false"/>
 		<property name="EconomicValue" value="125"/>
 	</append>
+	<!--Camping tents -->
+	<!-- All tents extends from cntCampingTentDomeRainCoverWhite -->
+	<append xpath="/blocks/block[@name='cntCampingTentDomeRainCoverWhite']">
+		<property name="SellableToTrader" value="false"/>
+	</append>	
 </configs>

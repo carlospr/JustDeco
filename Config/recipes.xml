@@ -1474,6 +1474,181 @@
                         <ingredient count="10" name="resourceCloth"/>
                         <ingredient count="1" name="modDyeBlue"/>
                         <ingredient count="8" name="resourceMetalPipe"/>
-                </recipe>                
+                </recipe>
+                <!-- Camping tents -->
+                <recipe count="1" name="cntCampingTentDomeRainCoverWhite">
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeWhite">
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverWhite">
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularWhite">
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedWhite">
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRainCoverRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRainCoverOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRainCoverBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRainCoverBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeRainCoverArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentDomeDamagedArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularRainCoverArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="20" name="resourceCloth"/>
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="cntCampingTentAngularDamagedArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                        <ingredient count="10" name="resourceScrapIron"/>
+                </recipe>
         </append>
 </configs>
