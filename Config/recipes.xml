@@ -2135,5 +2135,186 @@
                         <ingredient count="150" name="resourceRockSmall"/>
                         <ingredient count="10" name="resourceWood"/>
                 </recipe>
+                <!-- Pallets Tarp -->
+                <recipe count="1" name="palletTarpBaseWhite">
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBasePurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBasePink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpBaseArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileWhite">
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileYellow">
+                        <ingredient count="1" name="modDyeYellow"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileBlue">
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTilePurple">
+                        <ingredient count="1" name="modDyePurple"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileGrey">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileBlack">
+                        <ingredient count="1" name="modDyeBlack"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTilePink">
+                        <ingredient count="1" name="modDyePink"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
+                <recipe count="1" name="palletTarpTileArmyGreen">
+                        <ingredient count="1" name="modDyeGreen"/>
+                        <ingredient count="60" name="resourceRockSmall"/>
+                        <ingredient count="60" name="resourceCrushedSand"/>
+                        <ingredient count="60" name="resourceCobblestones"/>
+                        <ingredient count="60" name="resourceClayLump"/>
+                </recipe>
         </append>
 </configs>

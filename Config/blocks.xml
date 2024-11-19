@@ -116,4 +116,9 @@
 	<append xpath="/blocks/block[@name='palletBricksBase']">
 		<property name="SellableToTrader" value="false"/>
 	</append>			
+	<!-- Pallet Tarps -->
+	<!-- All pallet tarps extend from palletTarpBaseWhite -->
+	<append xpath="/blocks/block[@name='palletTarpBaseWhite']">
+		<property name="SellableToTrader" value="false"/>
+	</append>				
 </configs>
