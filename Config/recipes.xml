@@ -1999,5 +1999,26 @@
                 <recipe count="1" name="banditWallStreetsign3x2">
                         <ingredient count="50" name="resourceScrapIron"/>
                 </recipe>
+                <!-- Pallet Boxes -->
+                <recipe name="palletBrownBoxesBase">
+                        <ingredient count="40" name="resourcePaper"/>
+                        <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe name="palletBrownBoxesTile">
+                        <ingredient count="30" name="resourcePaper"/>
+                        <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe name="palletBrownBoxesTop">
+                        <ingredient count="20" name="resourcePaper"/>
+                        <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe name="palletBrownBoxesTopSmall">
+                        <ingredient count="20" name="resourcePaper"/>
+                        <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe name="palletBrownBoxesLoose">
+                        <ingredient count="20" name="resourcePaper"/>
+                        <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
         </append>
 </configs>
