@@ -2316,5 +2316,44 @@
                         <ingredient count="60" name="resourceCobblestones"/>
                         <ingredient count="60" name="resourceClayLump"/>
                 </recipe>
+                <!-- Misc Pallets -->
+                <recipe count="1" name="palletCompressedCardboard">
+                        <ingredient count="100" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="palletCans">
+                        <ingredient count="100" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="palletCansBase">
+                        <ingredient count="100" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="palletEmpty">
+                        <ingredient count="100" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="palletEmptyStack">
+                        <ingredient count="100" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="OSBWoodStack">
+                        <ingredient count="100" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="plywoodStack">
+                        <ingredient count="100" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="woodPlanksStack">
+                        <ingredient count="100" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="dryWallStack">
+                        <ingredient count="40" name="resourceRockSmall"/>
+                        <ingredient count="20" name="resourcePaper"/>
+                        <ingredient count="50" name="resourceCrushedSand"/>
+                </recipe>
+                <recipe count="1" name="metalPipeStack">
+                        <ingredient count="50" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="metalPipeStackLoose">
+                        <ingredient count="25" name="resourceMetalPipe"/>
+                </recipe>
+                <recipe count="1" name="bricksStack">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                </recipe>
         </append>
 </configs>

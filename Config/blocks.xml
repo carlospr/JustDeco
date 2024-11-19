@@ -120,5 +120,42 @@
 	<!-- All pallet tarps extend from palletTarpBaseWhite -->
 	<append xpath="/blocks/block[@name='palletTarpBaseWhite']">
 		<property name="SellableToTrader" value="false"/>
-	</append>				
+	</append>		
+	<!-- Misc pallets -->
+	<append xpath="/blocks/block[@name='palletCompressedCardboard']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletCans']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletCansBase']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletEmpty']">
+		<property name="SellableToTrader" value="false"/>
+	</append>		
+	<append xpath="/blocks/block[@name='palletEmptyStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='OSBWoodStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='plywoodStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='woodPlanksStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>	
+	<append xpath="/blocks/block[@name='dryWallStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='metalPipeStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='metalPipeStackLoose']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='bricksStack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>							
 </configs>
