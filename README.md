@@ -107,6 +107,9 @@
 
 ![PalletBricks](https://github.com/user-attachments/assets/9922a24c-10c7-4e2c-9fbd-57d90f54eeda)
 
+- 24 Pallet Tarps. They are from vanilla game (2 types and 12 colours: White, Brown, Red, Orange, Yellow, Green, Blue, Purple, Grey, Black, Pink and Army Green). They have been fixed so they are not sellable to trader now.
+
+![PalletTarps](https://github.com/user-attachments/assets/8e96e0df-14a5-4efc-b5f2-93cecaab5fea)
 
 
 **Indoor furniture**
