@@ -115,6 +115,40 @@
 
 ![MiscPallets](https://github.com/user-attachments/assets/09361ae8-0c2a-46d1-bb0a-0309825ba4fd)
 
+- 7 cow pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsCowFeed](https://github.com/user-attachments/assets/2c1b92cc-3cc4-4db4-8353-b9052089d3e1)
+
+- 4 military pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsMilitary](https://github.com/user-attachments/assets/a3d0d3ee-9907-4fa6-bcec-aa24fd6fac43)
+
+- 7 fluor pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsFluor](https://github.com/user-attachments/assets/f491bff1-237b-43f0-80ff-93e290dafac3)
+
+- 7 sand pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsSand](https://github.com/user-attachments/assets/18c3c0a4-7079-45ec-92d1-71bc96a737a8)
+
+- 8 concrete pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsConcrete](https://github.com/user-attachments/assets/89026daa-a435-48fa-88c9-c6466a85b1f9)
+
+- 7 fertilizier pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![PalletsFertilizer](https://github.com/user-attachments/assets/c8a288e8-a68f-450a-a609-43d343fa9433)
+
+- 84 bulk goods pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now. There are 7 types and 12 colours: White (in the following image), Brown, Red, Orange, Yellow, Green, Blue, Purple, Grey, Black, Pink and Army Green.
+
+![PalletBulkGoods](https://github.com/user-attachments/assets/81441b0a-0804-474a-9ba7-213f0cff30d0)
+
+
+
+
+
+
+
 
 
 **Indoor furniture**
