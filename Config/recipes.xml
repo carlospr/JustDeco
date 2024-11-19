@@ -2355,5 +2355,599 @@
                 <recipe count="1" name="bricksStack">
                         <ingredient count="150" name="resourceRockSmall"/>
                 </recipe>
+                <!-- *** PALLETS_MILITARY_AMMO_CANS -->
+                <recipe count="1" name="palletCartonMilitaryBase">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="palletCartonMilitaryCap">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="palletCartonMilitaryTile">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="palletCartonMilitaryTileCovered">
+                        <ingredient count="50" name="resourceScrapIron"/>
+                </recipe>
+                <!-- Cow_Feed -->
+                <recipe count="1" name="palletBagCowFeedBaseFull">
+                        <ingredient count="15" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedTile">
+                        <ingredient count="15" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedBaseMed">
+                        <ingredient count="10" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedCapMed">
+                        <ingredient count="10" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedCapSml">
+                        <ingredient count="8" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedSingleBent">
+                        <ingredient count="5" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagCowFeedSingleFlat">
+                        <ingredient count="5" name="plantedCorn1"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Flour -->
+                <recipe count="1" name="palletBagFlourBaseFull">
+                        <ingredient count="15" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourTile">
+                        <ingredient count="15" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourBaseMed">
+                        <ingredient count="10" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourCapMed">
+                        <ingredient count="10" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourCapSml">
+                        <ingredient count="8" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourSingleBent">
+                        <ingredient count="5" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFlourSingleFlat">
+                        <ingredient count="5" name="foodCornMeal"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Sand -->
+                <recipe count="1" name="palletBagSandBaseFull">
+                        <ingredient count="100" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandTile">
+                        <ingredient count="80" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandBaseMed">
+                        <ingredient count="50" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandCapMed">
+                        <ingredient count="50" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandCapSml">
+                        <ingredient count="30" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandSingleBent">
+                        <ingredient count="20" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagSandSingleFlat">
+                        <ingredient count="20" name="resourceCrushedSand"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Concrete -->
+                <recipe count="1" name="palletBagConcreteBaseFull">
+                        <ingredient count="100" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteTile">
+                        <ingredient count="80" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteBaseMed">
+                        <ingredient count="50" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteCapMed">
+                        <ingredient count="50" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteBaseSml">
+                        <ingredient count="30" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteCapSml">
+                        <ingredient count="30" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteSingleBent">
+                        <ingredient count="20" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagConcreteSingleFlat">
+                        <ingredient count="20" name="resourceCement"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Fertilizer -->
+                <recipe count="1" name="palletBagFertilizerBaseFull">
+                        <ingredient count="100" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerTile">
+                        <ingredient count="80" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerBaseMed">
+                        <ingredient count="50" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerCapMed">
+                        <ingredient count="50" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerCapSml">
+                        <ingredient count="30" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerSingleBent">
+                        <ingredient count="20" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagFertilizerSingleFlat">
+                        <ingredient count="20" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Blank_Bags_White -->
+                <recipe count="1" name="palletBagBlankBaseFullWhite">
+                        <ingredient count="100" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileWhite">
+                        <ingredient count="80" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedWhite">
+                        <ingredient count="50" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedWhite">
+                        <ingredient count="50" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlWhite">
+                        <ingredient count="30" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentWhite">
+                        <ingredient count="20" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatWhite">
+                        <ingredient count="20" name="resourcePotassiumNitratePowder"/>
+                        <ingredient count="15" name="resourceWood"/>
+                </recipe>
+                <!-- Blank_Bags_Brown -->
+                <recipe count="1" name="palletBagBlankBaseFullBrown">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileBrown">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedBrown">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedBrown">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlBrown">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentBrown">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatBrown">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBrown"/>
+                </recipe>
+                <!-- Blank_Bags_Red -->
+                <recipe count="1" name="palletBagBlankBaseFullRed">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileRed">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedRed">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedRed">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlRed">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentRed">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatRed">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeRed"/>
+                </recipe>
+                <!-- Blank_Bags_Orange -->
+                <recipe count="1" name="palletBagBlankBaseFullOrange">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileOrange">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedOrange">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedOrange">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlOrange">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentOrange">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatOrange">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <!-- Blank_Bags_Yellow -->
+                <recipe count="1" name="palletBagBlankBaseFullYellow">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileYellow">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedYellow">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedYellow">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlYellow">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentYellow">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatYellow">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeYellow"/>
+                </recipe>
+                <!-- Blank_Bags_Green -->
+                <recipe count="1" name="palletBagBlankBaseFullGreen">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileGreen">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedGreen">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedGreen">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlGreen">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentGreen">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatGreen">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <!-- Blank_Bags_Blue -->
+                <recipe count="1" name="palletBagBlankBaseFullBlue">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileBlue">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedBlue">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedBlue">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlBlue">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentBlue">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatBlue">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                </recipe>
+                <!-- Blank_Bags_Purple -->
+                <recipe count="1" name="palletBagBlankBaseFullPurple">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTilePurple">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedPurple">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedPurple">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlPurple">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentPurple">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatPurple">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePurple"/>
+                </recipe>
+                <!-- Blank_Bags_Grey -->
+                <recipe count="1" name="palletBagBlankBaseFullGrey">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileGrey">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedGrey">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedGrey">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlGrey">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentGrey">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatGrey">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlue"/>
+                        <ingredient count="1" name="modDyeOrange"/>
+                </recipe>
+                <!-- Blank_Bags_Black -->
+                <recipe count="1" name="palletBagBlankBaseFullBlack">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileBlack">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedBlack">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedBlack">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlBlack">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentBlack">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatBlack">
+                        <ingredient name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeBlack"/>
+                </recipe>
+                <!-- Blank_Bags_Pink -->
+                <recipe count="1" name="palletBagBlankBaseFullPink">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTilePink">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedPink">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedPink">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlPink">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentPink">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatPink">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyePink"/>
+                </recipe>
+                <!-- Blank_Bags_ArmyGreen -->
+                <recipe count="1" name="palletBagBlankBaseFullArmyGreen">
+                        <ingredient count="100" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankTileArmyGreen">
+                        <ingredient count="80" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankBaseMedArmyGreen">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapMedArmyGreen">
+                        <ingredient count="50" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankCapSmlArmyGreen">
+                        <ingredient count="30" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleBentArmyGreen">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
+                <recipe count="1" name="palletBagBlankSingleFlatArmyGreen">
+                        <ingredient count="20" name="resourceClayLump"/>
+                        <ingredient count="15" name="resourceWood"/>
+                        <ingredient count="1" name="modDyeGreen"/>
+                </recipe>
         </append>
 </configs>

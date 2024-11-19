@@ -105,22 +105,22 @@
 	<!-- All tents extends from cntCampingTentDomeRainCoverWhite -->
 	<append xpath="/blocks/block[@name='cntCampingTentDomeRainCoverWhite']">
 		<property name="SellableToTrader" value="false"/>
-	</append>	
+	</append>
 	<!-- Pallet Boxes -->
 	<!-- All pallet boxes extend from palletBrownBoxesBase -->
 	<append xpath="/blocks/block[@name='palletBrownBoxesBase']">
 		<property name="SellableToTrader" value="false"/>
-	</append>	
+	</append>
 	<!-- Pallet Bricks -->
 	<!-- All pallet bricks extend from palletBricksBase -->
 	<append xpath="/blocks/block[@name='palletBricksBase']">
 		<property name="SellableToTrader" value="false"/>
-	</append>			
+	</append>
 	<!-- Pallet Tarps -->
 	<!-- All pallet tarps extend from palletTarpBaseWhite -->
 	<append xpath="/blocks/block[@name='palletTarpBaseWhite']">
 		<property name="SellableToTrader" value="false"/>
-	</append>		
+	</append>
 	<!-- Misc pallets -->
 	<append xpath="/blocks/block[@name='palletCompressedCardboard']">
 		<property name="SellableToTrader" value="false"/>
@@ -133,7 +133,7 @@
 	</append>
 	<append xpath="/blocks/block[@name='palletEmpty']">
 		<property name="SellableToTrader" value="false"/>
-	</append>		
+	</append>
 	<append xpath="/blocks/block[@name='palletEmptyStack']">
 		<property name="SellableToTrader" value="false"/>
 	</append>
@@ -145,7 +145,7 @@
 	</append>
 	<append xpath="/blocks/block[@name='woodPlanksStack']">
 		<property name="SellableToTrader" value="false"/>
-	</append>	
+	</append>
 	<append xpath="/blocks/block[@name='dryWallStack']">
 		<property name="SellableToTrader" value="false"/>
 	</append>
@@ -157,5 +157,66 @@
 	</append>
 	<append xpath="/blocks/block[@name='bricksStack']">
 		<property name="SellableToTrader" value="false"/>
-	</append>							
+	</append>
+	<!-- *** PALLETS_MILITARY_AMMO_CANS -->
+	<append xpath="/blocks/block[@name='palletCartonMilitaryBase']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Cow_Feed -->
+	<append xpath="/blocks/block[@name='palletBagCowFeedBaseFull']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Flour -->
+	<append xpath="/blocks/block[@name='palletBagFlourBaseFull']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Sand -->
+	<append xpath="/blocks/block[@name='palletBagSandBaseFull']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Concrete -->
+	<append xpath="/blocks/block[@name='palletBagCowFeedBaseFull']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Fertilizer -->
+	<append xpath="/blocks/block[@name='palletBagFertilizerBaseFull']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Bulk goods bags -->
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullWhite']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullBrown']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullRed']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullOrange']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullYellow']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullGreen']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullBlue']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullPurple']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullGrey']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullBlack']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullPink']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='palletBagBlankBaseFullArmyGreen']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
 </configs>
