@@ -99,9 +99,13 @@
 
 ![BanditWallsWhite](https://github.com/user-attachments/assets/6c7f99f2-9df4-4cb2-920c-d596f39c1409)
 
-- 5 Pallet Boxes. They are from vanilla game. They have been fixes so they are not sellable to trader now.
+- 5 Pallet Boxes. They are from vanilla game. They have been fixed so they are not sellable to trader now.
 
 ![PalletBoxes](https://github.com/user-attachments/assets/df6907b6-e8d8-4dc5-893f-6c6814edb815)
+
+- 24 Pallet Bricks. They are from vanilla game (6 types and four colours: Grey, Brown, Red and Orange). They have been fixed so they are not sellable to trader now.
+
+![PalletBricks](https://github.com/user-attachments/assets/9922a24c-10c7-4e2c-9fbd-57d90f54eeda)
 
 
 
