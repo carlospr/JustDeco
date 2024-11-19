@@ -2000,25 +2000,140 @@
                         <ingredient count="50" name="resourceScrapIron"/>
                 </recipe>
                 <!-- Pallet Boxes -->
-                <recipe name="palletBrownBoxesBase">
+                <recipe count="1" name="palletBrownBoxesBase">
                         <ingredient count="40" name="resourcePaper"/>
                         <ingredient count="10" name="resourceScrapPolymers"/>
                 </recipe>
-                <recipe name="palletBrownBoxesTile">
+                <recipe count="1" name="palletBrownBoxesTile">
                         <ingredient count="30" name="resourcePaper"/>
                         <ingredient count="10" name="resourceScrapPolymers"/>
                 </recipe>
-                <recipe name="palletBrownBoxesTop">
+                <recipe count="1" name="palletBrownBoxesTop">
                         <ingredient count="20" name="resourcePaper"/>
                         <ingredient count="10" name="resourceScrapPolymers"/>
                 </recipe>
-                <recipe name="palletBrownBoxesTopSmall">
+                <recipe count="1" name="palletBrownBoxesTopSmall">
                         <ingredient count="20" name="resourcePaper"/>
                         <ingredient count="10" name="resourceScrapPolymers"/>
                 </recipe>
-                <recipe name="palletBrownBoxesLoose">
+                <recipe count="1" name="palletBrownBoxesLoose">
                         <ingredient count="20" name="resourcePaper"/>
                         <ingredient count="10" name="resourceScrapPolymers"/>
+                </recipe>
+                <!-- Pallet Bricks -->
+                <recipe count="1" name="palletBricksBase">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTile">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial1">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTop">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial2">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksLoose">
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksBaseBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTileBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial1Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTopBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial2Brown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksLooseBrown">
+                        <ingredient count="1" name="modDyeBrown"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksBaseRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTileRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial1Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTopRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial2Red">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksLooseRed">
+                        <ingredient count="1" name="modDyeRed"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksBaseOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTileOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial1Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksTopOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksPartial2Orange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>
+                <recipe count="1" name="palletBricksLooseOrange">
+                        <ingredient count="1" name="modDyeOrange"/>
+                        <ingredient count="150" name="resourceRockSmall"/>
+                        <ingredient count="10" name="resourceWood"/>
                 </recipe>
         </append>
 </configs>
