@@ -111,6 +111,11 @@
 
 ![PalletTarps](https://github.com/user-attachments/assets/8e96e0df-14a5-4efc-b5f2-93cecaab5fea)
 
+- 12 Misc pallets. They are from vanilla game. They have been fixed so they are not sellable to trader now.
+
+![MiscPallets](https://github.com/user-attachments/assets/09361ae8-0c2a-46d1-bb0a-0309825ba4fd)
+
+
 
 **Indoor furniture**
 
