@@ -2985,6 +2985,16 @@
                 </recipe>
                 <recipe count="1" name="rubbishDecor13">
                         <ingredient count="5" name="resourcePaper"/>
-                </recipe>                
+                </recipe>      
+                <!-- Shower Heads and handle -->
+                <recipe count="1" name="showerHead">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="showerHead02">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>
+                <recipe count="1" name="showerHandle01">
+                        <ingredient count="40" name="resourceScrapIron"/>
+                </recipe>                              
         </append>
 </configs>
