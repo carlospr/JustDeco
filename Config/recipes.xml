@@ -2996,5 +2996,18 @@
                 <recipe count="1" name="showerHandle01">
                         <ingredient count="40" name="resourceScrapIron"/>
                 </recipe>                              
+                <!-- Blood decorations -->
+                <recipe count="1" name="bloodDecor01" craft_time="5">
+                        <ingredient count="5" name="foodRottingFlesh"/>
+                </recipe>
+                <recipe count="1" name="bloodDecor02" craft_time="5">
+                        <ingredient count="5" name="foodRottingFlesh"/>
+                </recipe>
+                <recipe count="1" name="bloodDecor05" craft_time="5">
+                        <ingredient count="5" name="foodRottingFlesh"/>
+                </recipe>                       
+                <recipe count="1" name="bloodDecor06" craft_time="5">
+                        <ingredient count="5" name="foodRottingFlesh"/>
+                </recipe>                  
         </append>
 </configs>

@@ -220,4 +220,17 @@
 	<append xpath="/blocks/block[@name='palletBagBlankBaseFullArmyGreen']">
 		<property name="SellableToTrader" value="false"/>
 	</append>
+	<!-- Blood decorations -->	
+	<append xpath="/blocks/block[@name='bloodDecor01']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='bloodDecor02']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='bloodDecor05']">
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<append xpath="/blocks/block[@name='bloodDecor06']">
+		<property name="SellableToTrader" value="false"/>
+	</append>	
 </configs>
