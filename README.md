@@ -143,6 +143,10 @@
 
 ![PalletBulkGoods](https://github.com/user-attachments/assets/81441b0a-0804-474a-9ba7-213f0cff30d0)
 
+- 12 rubbish decorations. They are from vanilla game.
+
+![RubbishDecor](https://github.com/user-attachments/assets/428ad1b3-fb4b-4c51-9ecd-33234edcce52)
+
 
 **Indoor furniture**
 
