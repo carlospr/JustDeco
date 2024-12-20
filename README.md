@@ -147,6 +147,11 @@
 
 ![RubbishDecor](https://github.com/user-attachments/assets/428ad1b3-fb4b-4c51-9ecd-33234edcce52)
 
+- 4 blood decorations. They are from vanilla game and they have been fixed so they are not sellable to trader now. Crafting time reduced to 5 seconds.
+
+![7DaysToDie_7nAoN4anBz](https://github.com/user-attachments/assets/f73a58e6-d0f6-4eaf-a52a-2118ae10a181)
+
+
 
 **Indoor furniture**
 
