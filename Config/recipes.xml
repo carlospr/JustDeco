@@ -2949,5 +2949,42 @@
                         <ingredient count="15" name="resourceWood"/>
                         <ingredient count="1" name="modDyeGreen"/>
                 </recipe>
+                <!-- Rubbish Decor -->
+                <recipe count="1" name="rubbishDecor01">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor02">
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor03">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor04">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor05">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor06">
+                        <ingredient count="5" name="resourceScrapPolymers"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor08">
+                        <ingredient count="5" name="resourceRockSmall"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor09">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor10">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor11">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor12">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>
+                <recipe count="1" name="rubbishDecor13">
+                        <ingredient count="5" name="resourcePaper"/>
+                </recipe>                
         </append>
 </configs>
