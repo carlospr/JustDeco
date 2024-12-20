@@ -143,10 +143,6 @@
 
 ![PalletBulkGoods](https://github.com/user-attachments/assets/81441b0a-0804-474a-9ba7-213f0cff30d0)
 
-- 5 empty shelves. They are from vanilla game and they are added to metal furniture block.
-
-![image](https://github.com/user-attachments/assets/024250b9-6f83-406d-8215-4765e18fff41)
-
 
 **Indoor furniture**
 
@@ -196,7 +192,9 @@
 
 ![Curtains](https://github.com/user-attachments/assets/8fcb4b0e-9d2d-44c2-9f6b-a58ef124fe2a)
 
+- 5 empty shelves. They are from vanilla game and they are added to metal furniture block.
 
+![image](https://github.com/user-attachments/assets/024250b9-6f83-406d-8215-4765e18fff41)
   
 # Disclaimer
 
