@@ -199,6 +199,11 @@
 - 5 empty shelves. They are from vanilla game and they are added to metal furniture block.
 
 ![image](https://github.com/user-attachments/assets/024250b9-6f83-406d-8215-4765e18fff41)
+
+- 3 shower head and handle. They are from vanilla game.
+
+![image](https://github.com/user-attachments/assets/de79083e-6f95-485a-af05-8fbcf7f5e339)
+
   
 # Disclaimer
 
