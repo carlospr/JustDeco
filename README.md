@@ -17,7 +17,6 @@ Currently it is compatible with **game version 2.6**. Probably it can work with 
 ## Version 1.0.0
 - Compatible with game version 2.6
 - New recipes:
-  - Bandit wall sign
   - Church pew pile
   - 3 driftwoods
   - 3 firewoods stacks
