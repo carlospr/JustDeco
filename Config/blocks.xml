@@ -76,6 +76,15 @@
 	<append xpath="/blocks/block[@name='decoWildWestWagon']">
 		<property name="EconomicValue" value="100"/>
 	</append>
+	<!-- Wild West Coffins (all extends from cntCoffinWildWestOpen or woodWeakNoUpgradeMaster)-->
+	<append xpath="/blocks/block[@name='cntCoffinWildWestOpen']">
+		<property name="EconomicValue" value="20"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Wild West Old Chest (open) -->	
+	<append xpath="/blocks/block[@name='cntOldWestChestOpen']">
+		<property name="EconomicValue" value="20"/>
+	</append>	
 	<!-- "Hoist" equipment -->
 	<!-- decoHoistChainSingleCenter, decoHoistChainSingleCorner, decoHoistSpreader,decoHoistHook, decoHoistMagnet and decoHoistTopMount extends from decoHoistChain-->
 	<append xpath="/blocks/block[@name='decoHoistChain']">
@@ -232,5 +241,22 @@
 	</append>
 	<append xpath="/blocks/block[@name='bloodDecor06']">
 		<property name="SellableToTrader" value="false"/>
+	</append>	
+	<!-- Church Pew Pile -->
+	<append xpath="/blocks/block[@name='churchPewPile']">
+		<property name="EconomicValue" value="80"/>
+		<property name="SellableToTrader" value="false"/>
+	</append>
+	<!-- Firewoods Stacks (all of them extend from )-->         
+	<append xpath="/blocks/block[@name='modularFireWoodStackA']">
+		<property name="EconomicValue" value="20"/>
+	</append>	
+	<!-- Driftwoods (all of them extend from driftwood)-->
+	<append xpath="/blocks/block[@name='driftwood']">
+		<property name="EconomicValue" value="5"/>
+	</append>	
+	<!-- Utility Poles (all of them extend from woodPillar50UtilityTop)-->
+	<append xpath="/blocks/block[@name='woodPillar50UtilityTop']">
+		<property name="EconomicValue" value="5"/>
 	</append>	
 </configs>

@@ -462,7 +462,31 @@
                         <ingredient count="40" name="resourceCloth"/>
                         <ingredient count="40" name="resourceScrapIron"/>
                         <ingredient count="200" name="resourceWood"/>
+                </recipe>        
+                <recipe count="1" name="cntCoffinWildWestOpen">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
                 </recipe>
+                <recipe count="1" name="cntCoffinWildWestCracked">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
+                </recipe>
+                <recipe count="1" name="cntCoffinWildWestStack">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
+                </recipe>
+                <recipe count="1" name="cntCoffinWildWestLeaning">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
+                </recipe>
+                <recipe count="1" name="cntCoffinWildWestLidLeaning">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
+                </recipe>
+                <recipe count="1" name="cntOldWestChestOpen">
+                        <ingredient count="5" name="resourceScrapIron"/>
+                        <ingredient count="20" name="resourceWood"/>                
+                </recipe>                                                                             
                 <recipe count="1" name="piano">
                         <ingredient count="40" name="resourceScrapIron"/>
                         <ingredient count="75" name="resourceWood"/>
@@ -3008,6 +3032,54 @@
                 </recipe>                       
                 <recipe count="1" name="bloodDecor06" craft_time="5">
                         <ingredient count="5" name="foodRottingFlesh"/>
+                </recipe>       
+                <!-- Church pew pile -->
+               <recipe count="1" name="churchPewPile" craft_time="5">
+                        <ingredient count="80" name="resourceWood"/>
+                        <ingredient count="10" name="resourceCloth"/>
+                </recipe>    
+                <!-- Firewoods Stacks-->                                                         
+               <recipe count="1" name="modularFireWoodStackA" craft_time="5">
+                        <ingredient count="50" name="resourceWood"/>
+                </recipe>      
+               <recipe count="1" name="modularFireWoodStackB" craft_time="5">
+                        <ingredient count="50" name="resourceWood"/>
+                </recipe>   
+               <recipe count="1" name="modularFireWoodStackC" craft_time="5">
+                        <ingredient count="10" name="resourceWood"/>
+                </recipe>                                              
+                <!-- Driftwoods -->
+               <recipe count="1" name="driftwood" craft_time="5">
+                        <ingredient count="30" name="resourceWood"/>
+                </recipe>          
+               <recipe count="1" name="driftwood2" craft_time="5">
+                        <ingredient count="30" name="resourceWood"/>
+                </recipe>          
+               <recipe count="1" name="driftwood3" craft_time="5">
+                        <ingredient count="30" name="resourceWood"/>
+                </recipe>      
+                <!-- Utility Poles -->  
+              <recipe count="1" name="woodPillar50UtilityTop" craft_time="5">
+                        <ingredient count="20" name="resourceWood"/>
+                </recipe>          
+               <recipe count="1" name="woodPoleUtilitySupport" craft_time="5">
+                        <ingredient count="20" name="resourceWood"/>
+                </recipe>          
+               <recipe count="1" name="woodPillar375" craft_time="5">
+                        <ingredient count="20" name="resourceWood"/>
+                </recipe>                                                                    
+                <recipe count="1" name="woodPillar375UtilityTop" craft_time="5">
+                        <ingredient count="20" name="resourceWood"/>
                 </recipe>                  
+                <!-- Horse Shoes -->
+               <recipe count="1" name="horseshoe_01" craft_time="5">
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>          
+               <recipe count="1" name="horseshoe_02" craft_time="5">
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>                                                                    
+                <recipe count="1" name="horseshoe_03" craft_time="5">
+                        <ingredient count="20" name="resourceScrapIron"/>
+                </recipe>                        
         </append>
 </configs>
