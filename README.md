@@ -262,7 +262,7 @@ Currently it is compatible with **game version 2.6**. Probably it can work with 
 
 # How to install the mod
 
-- Download mod. You can find the latest release in this repository.
+- Download [latest version of the mod](https://github.com/carlospr/JustDeco/blob/main/dist/latest/JustDeco.zip). You can find other releases in this repository.
 - In Steam, right-click on 7 Days to Die, choose Properties
 - Click on the Local Files tab and click Browse Local Files
 - Open the folder named Mods (create if if it does not exist)
