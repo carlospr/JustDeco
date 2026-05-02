@@ -260,7 +260,14 @@ Currently it is compatible with **game version 2.6**. Probably it can work with 
 
 <img width="246" height="82" alt="HorseShoes" src="https://github.com/user-attachments/assets/07a2b536-4406-4cd0-81bc-a06067ef0ad5" />
 
-  
+# How to install the mod
+
+- Download mod. You can find the latest release in this repository.
+- In Steam, right-click on 7 Days to Die, choose Properties
+- Click on the Local Files tab and click Browse Local Files
+- Open the folder named Mods (create if if it does not exist)
+- Unzip the file into that Mods folder. You will see a new folder with some files and a subfolder named Config.
+
 # Disclaimer
 
 This mod has been created specifically to my own use. So their content could be biased by my style and way of play. Feel free to suggest new ideas and content but be brunderstanding with it!
